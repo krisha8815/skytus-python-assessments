@@ -1,0 +1,9 @@
+Hello Python
+This is a sample file
+i am krisha
+Python
+File Handling
+Append Example
+Python
+File Handling
+Append Example
